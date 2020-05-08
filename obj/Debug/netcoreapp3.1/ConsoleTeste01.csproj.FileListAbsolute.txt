@@ -1,0 +1,12 @@
+/Users/daniel/Develop/Sandbox/ConsoleTeste01/bin/Debug/netcoreapp3.1/ConsoleTeste01.deps.json
+/Users/daniel/Develop/Sandbox/ConsoleTeste01/bin/Debug/netcoreapp3.1/ConsoleTeste01.runtimeconfig.json
+/Users/daniel/Develop/Sandbox/ConsoleTeste01/bin/Debug/netcoreapp3.1/ConsoleTeste01.runtimeconfig.dev.json
+/Users/daniel/Develop/Sandbox/ConsoleTeste01/bin/Debug/netcoreapp3.1/ConsoleTeste01.dll
+/Users/daniel/Develop/Sandbox/ConsoleTeste01/bin/Debug/netcoreapp3.1/ConsoleTeste01.pdb
+/Users/daniel/Develop/Sandbox/ConsoleTeste01/obj/Debug/netcoreapp3.1/ConsoleTeste01.csprojAssemblyReference.cache
+/Users/daniel/Develop/Sandbox/ConsoleTeste01/obj/Debug/netcoreapp3.1/ConsoleTeste01.csproj.CoreCompileInputs.cache
+/Users/daniel/Develop/Sandbox/ConsoleTeste01/obj/Debug/netcoreapp3.1/ConsoleTeste01.AssemblyInfoInputs.cache
+/Users/daniel/Develop/Sandbox/ConsoleTeste01/obj/Debug/netcoreapp3.1/ConsoleTeste01.AssemblyInfo.cs
+/Users/daniel/Develop/Sandbox/ConsoleTeste01/obj/Debug/netcoreapp3.1/ConsoleTeste01.dll
+/Users/daniel/Develop/Sandbox/ConsoleTeste01/obj/Debug/netcoreapp3.1/ConsoleTeste01.pdb
+/Users/daniel/Develop/Sandbox/ConsoleTeste01/obj/Debug/netcoreapp3.1/ConsoleTeste01.genruntimeconfig.cache
